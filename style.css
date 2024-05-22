@@ -1,0 +1,114 @@
+/* Comment Code */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Comment Code */
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+/* Comment Code */
+.header{
+    width: 100%;
+    height: 6%;
+    background-color: #ed4807;
+}
+
+/* Comment Code */
+.topnav{
+    overflow: hidden;
+}
+
+/* Comment Code */
+.topnav p,a{
+    float: left;
+    text-align: center;
+    padding: 10px 10px;
+    margin-right: -10px;
+    text-decoration: none;
+    font-size: 12px;
+    color: none;
+}
+
+/* Comment Code */
+.topnav p{
+    color: white;
+    font-size: 14px;
+}
+
+/* Comment Code */
+.topnav a{
+    color: white;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+/* Comment Code */
+.right-nav{
+    float: right;
+}
+
+/* Comment Code */
+.right-nav a{
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+}
+
+/* Comment Code */
+.hero{
+    width: 100%;
+    height: 17%;
+    background-color: #edc8c7;
+}
+
+/* Comment Code */
+.hero img{
+    width: 200px;
+    height: 90px;
+    border: 1px thick black;
+    border-radius: 4%;
+}
+
+/* Comment Code */
+.links a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font: optional;
+}
+
+/* Comment Code */
+.links{
+    margin: 0 auto;
+    margin: 40px ;
+    justify-content: center;
+}
+
+/* Comment Code */
+.contact1{
+    padding-top: 22px;
+}
+
+/* Comment Code */
+.contact{
+    font-size: 30px;
+    color: orange;
+    font-weight: bold;
+}
+
+/* Comment Code */
+.border{
+    width: auto;
+    height: 6px;
+    background-color: black;
+}
+
+/* Comment Code */
+.p{
+    font-weight: 550;
+}
